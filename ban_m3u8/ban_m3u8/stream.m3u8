@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:8
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:8.333333,
+https://freelivtv.xyz/m3u8/ban_m3u8/ban_m3u8/stream0.ts
+#EXTINF:1.666667,
+https://freelivtv.xyz/m3u8/ban_m3u8/ban_m3u8/stream1.ts
+#EXT-X-ENDLIST
